@@ -12,3 +12,4 @@ class Constantes:
         WELL_DONE = "Well Done"
         HELLO = "Hello"
         GOOD_EVENING = "Good Evening"
+        GOOD_BYE = "Goodbye"
